@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio SCRAP_IOSIG C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the SCRAP_IOSIG GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
